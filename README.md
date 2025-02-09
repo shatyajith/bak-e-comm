@@ -1,4 +1,4 @@
-# bak-e-comm
+# bak-e-comm I USED INLINE CSS 
 it is an example regards to my resume
 menu page :it consist of various elements like
 >>nav bar 
